@@ -3,6 +3,7 @@
     "version": "1.0.0",
     "description": "A Node-RED Project",
     "dependencies": {
+        "when": "^3.7.8",
         "node-red": "^2.2.2",
         "node-red-contrib-alarm": "^1.2.5",
         "node-red-contrib-component-dashboard": "0.0.4",
