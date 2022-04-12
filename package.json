@@ -1,11 +1,11 @@
 {
-    "name": "node-red-project",
+    "name": "node-red-fri",
+    "version": "1.0.0",
     "description": "A Node-RED Project",
-    "version": "0.0.1",
     "dependencies": {
-        "node-red-contrib-alarm": "~1.2.5",
+        "node-red-contrib-alarm": "^1.2.5",
         "node-red-contrib-component-dashboard": "0.0.4",
-        "node-red-contrib-components": "~0.1.8",
+        "node-red-contrib-components": "^0.3.5",
         "node-red-contrib-firebase": "~1.1.1",
         "node-red-contrib-influxdb": "~0.5.1",
         "node-red-contrib-mqtt-broker": "~0.2.4",
@@ -13,7 +13,7 @@
         "node-red-contrib-ttn": "~2.0.5",
         "node-red-contrib-ui-svg": "~2.2.1",
         "node-red-contrib-users": "~0.1.9",
-        "node-red-dashboard": "~2.14.0",
+        "node-red-dashboard": "^3.1.6",
         "node-red-node-ui-table": "~0.3.10"
     }
 }
